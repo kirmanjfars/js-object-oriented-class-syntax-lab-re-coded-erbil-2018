@@ -1,1 +1,0 @@
-function BoardMember(name, address, training )
