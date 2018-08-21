@@ -55,7 +55,7 @@ function Ceo(name, homeState, training){
   }
   
   Ceo.prototype.hireEmployee = function(){
-    
+    return 
   }
 
 }
